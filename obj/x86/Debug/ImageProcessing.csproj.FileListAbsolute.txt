@@ -1,0 +1,10 @@
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\x86\Debug\ImageProcessing.exe.config
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\x86\Debug\ImageProcessing.exe
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\x86\Debug\ImageProcessing.pdb
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb

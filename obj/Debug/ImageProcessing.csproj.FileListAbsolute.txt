@@ -1,0 +1,54 @@
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\AForge.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\AForge.Video.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\AForgeCore.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\AForge.xml
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\AForge.Video.xml
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\ImageProcessing\obj\Debug\ImagePro.C60485DA.Up2Date
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\ImageProcessing.exe.config
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\ImageProcessing.exe
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\ImageProcessing.pdb
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\AForge.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\AForge.Video.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\AForgeCore.dll
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\AForge.xml
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\AForge.Video.xml
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImagePro.C60485DA.Up2Date
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImageProcessing.exe
+C:\Users\retro\OneDrive - Cebu Institute of Technology University\3rd Year - 1st Semester\CS345 - Intelligent Systems I\Activities\Imega-Processing\obj\Debug\ImageProcessing.pdb
+C:\PROJECTS\ImageProcessing003\bin\Debug\ImageProcessing.exe.config
+C:\PROJECTS\ImageProcessing003\bin\Debug\ImageProcessing.exe
+C:\PROJECTS\ImageProcessing003\bin\Debug\ImageProcessing.pdb
+C:\PROJECTS\ImageProcessing003\bin\Debug\AForge.dll
+C:\PROJECTS\ImageProcessing003\bin\Debug\AForge.Video.DirectShow.dll
+C:\PROJECTS\ImageProcessing003\bin\Debug\AForge.Video.dll
+C:\PROJECTS\ImageProcessing003\bin\Debug\AForgeCore.dll
+C:\PROJECTS\ImageProcessing003\bin\Debug\AForge.xml
+C:\PROJECTS\ImageProcessing003\bin\Debug\AForge.Video.xml
+C:\PROJECTS\ImageProcessing003\bin\Debug\AForge.Video.DirectShow.xml
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImageProcessing.Form1.resources
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImagePro.C60485DA.Up2Date
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImageProcessing.exe
+C:\PROJECTS\ImageProcessing003\obj\Debug\ImageProcessing.pdb
